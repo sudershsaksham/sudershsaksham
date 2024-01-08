@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
 <h3 align="center">A Graduate Student @ GeorgiaTech</h3>
 
-- 🔭 I’m currently working on **an algorithmic trading bot for Steam Marketplace!**
+- 🔭 I’m currently working on: **an algorithmic trading bot for Steam Marketplace!**
 
-- 🌱 I’m currently learning **High Performance Computing, Financial Risk Management, Computational Data Analytics and Data Mining**
+- 🌱 I’m currently learning: **High Performance Computing, Financial Risk Management, Computational Data Analytics and Data Mining**
 
-- 📫 How to reach me **write to me on LinkedIn! Always interested in talking Data Science!**
+- 📫 How to reach me: **write to me on LinkedIn! Always interested in talking Data Science!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
